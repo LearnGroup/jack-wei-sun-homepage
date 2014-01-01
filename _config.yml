@@ -1,0 +1,29 @@
+site_name: "CRAZY JACK 的主页"
+markdown: redcarpet
+pygments: true
+
+exclude: ['README.md']
+
+# site configuation
+
+JK:
+  name: "Jack Sun"
+  title: "瞎鼓捣爱好者"
+  info:
+    github: "jacksunwei"
+    email: "jacksunwei [at] gmail.com"
+    googleplus: ""
+  analytics:
+    google:
+      tracking_id: "UA-42599176-4"
+  pages:
+    blog: 
+      name: "技术博客"
+      addr: "http://blog.jkcrazy.net"
+    life:
+      name: "生活点滴"
+      addr: "http://life.jkcrazy.net"
+
+# server configuation
+baseurl: ""
+url: http://localhost:4000
