@@ -6,7 +6,7 @@ menu:  home
 ---
 
 Jack Sun (孙伟)
-=============
+==============
 
 Hi, I am **Jack Sun (孙伟)**. I graduate from the
 [Department of Computer Science & Engineering](http://www.cs.sjtu.edu.cn/ ) at
