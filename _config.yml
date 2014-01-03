@@ -8,7 +8,7 @@ exclude: ['README.md']
 
 JK:
   name: "Jack Sun"
-  title: "瞎鼓捣爱好者"
+  title: "My Little Stack"
   info:
     github: "jacksunwei"
     email: "jacksunwei [at] gmail.com"
@@ -17,12 +17,41 @@ JK:
     google:
       tracking_id: "UA-42599176-4"
   pages:
-    blog: 
-      name: "技术博客"
+    blog:
+      name: "Tech Blog"
       addr: "http://blog.jkcrazy.net"
     life:
-      name: "生活点滴"
+      name: "Life Record"
       addr: "http://life.jkcrazy.net"
+  navs:
+    - title: Jack Sun
+      menus:
+        - menu: home
+          url: home.html
+        - menu: resume
+          url: '#'
+        - menu: contact
+          url: contact.html
+    - title: Academics
+      menus:
+        - menu: teaching
+          url: teaching.html
+    - title: Experiences
+      menus:
+        - menu: internship
+          url: internship.html
+        - menu: campus activities
+          url: campus.html
+    - title: Links
+      menus:
+        - menu: utilities
+          url: utilities.html
+        - menu: articles
+          url: articles.html
+        - menu: books
+          url: books.html
+        - menu: snippets
+          url: snippets.html
 
 # server configuation
 baseurl: ""

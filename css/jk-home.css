@@ -87,3 +87,12 @@
   }
 }
 
+.jk-section + .jk-section {
+  padding-top: 10px;
+}
+
+.jk-section {
+  border-radius: 5px;
+  padding-left: 15px;
+  background-color: #f7f5fa;
+}
