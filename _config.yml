@@ -4,6 +4,11 @@ pygments: true
 
 exclude: ['README.md']
 
+# server configuation
+baseurl: ""
+# url: http://localhost:4000/
+url: http://www.jkcrazy.net/
+
 # site configuation
 
 JK:
@@ -59,6 +64,3 @@ JK:
         - menu: snippets
           url: snippets.html
 
-# server configuation
-baseurl: ""
-url: http://localhost:4000
