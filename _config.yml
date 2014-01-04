@@ -36,14 +36,16 @@ JK:
       menus:
         - menu: teaching
           url: teaching.html
+        - menu: deadlines
+          url: deadlines.html
+        - menu: research
+          url: research.html
     - title: Experiences & Projects
       menus:
-        - menu: internship
-          url: internship.html
         - menu: portfolio
           url: portfolio.html
-        - menu: campus activities
-          url: campus.html
+        - menu: experience
+          url: experience.html
     - title: Links
       menus:
         - menu: articles

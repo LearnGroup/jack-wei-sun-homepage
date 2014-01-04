@@ -7,4 +7,3 @@ menu:  campus activities
 
 Campus Activities
 =================
-
