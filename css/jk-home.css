@@ -1,9 +1,9 @@
-*
+/**
  * CSS styles special for homepage
  */
 
 body {
-    font-size: 15px;
+  font-size: 15px;
 }
 
 .jk-header {
@@ -13,7 +13,6 @@ body {
 }
 
 .jk-nav {
-
 }
 
 .jk-nav .nav > li.active {
@@ -21,6 +20,3 @@ body {
 }
 
 
-.dropdown:hover .dropdown-menu {
-    display: block;
-}
