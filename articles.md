@@ -7,3 +7,6 @@ menu:  articles
 
 Articles
 =================
+
+## Jekyll ##
+* [Generating a Sitemap in Jekyll without a Plugin](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/)

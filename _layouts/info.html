@@ -1,32 +1,52 @@
 ---
-layout: page
-
+layout: default
 ---
-
-<div class="row">
-  <div class="col-md-3" id="nav-bar">
-    <div class="jk-nav hidden-print affix-top">
-      <ul class="nav nav-pills nav-stacked">
-        {% for nav in site.JK.navs %}
-          <li>{{ nav.title }}</li>
-          <ul class="nav">
-            {% for menu in nav.menus %}
-              <li {% if menu.menu == page.menu %}
-                    class="active"
-                  {% endif %}>
-                <a href="{{menu.url}}">{{menu.menu}}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        {% endfor %}
-      </ul>
+<div>
+  <header class="navbar navbar-inverse navbar-fixed-top" role="banner">
+    <div class="container">
+      <nav class="">
+        <a class="navbar-brand" href="/">CRAZY JACK <sup><font color="red">alpha</font></sup></a>
+        <ul class="nav navbar-nav hidden-xs">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="contact.html">Contact Me</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right hidden-xs">
+          <li><a href="{{site.JK.pages.blog.addr}}" target="_blank">{{site.JK.pages.blog.name}}</a></li>
+          <li><a href="{{site.JK.pages.life.addr}}" target="_blank">{{site.JK.pages.life.name}}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="jumbotron jk-header" id="overview">
+    <div class="container">
+      <h1>{{site.JK.name}}</h1>
+      <p class="">{{site.JK.title}}</p>
     </div>
   </div>
-  <div class="col-md-9" id="content">
-    {{content}}
+  <div class="container">
+    <!-- <div class="row"> -->
+      <div class="col-md-3" id="nav-bar">
+        <div class="jk-nav hidden-print affix-top" >
+          <ul class="nav nav-pills nav-stacked">
+            {% for nav in site.JK.navs %}
+              <li>{{ nav.title }}</li>
+              <ul class="nav">
+                {% for menu in nav.menus %}
+                  <li {% if menu.menu == page.menu %}
+                        class="active"
+                      {% endif %}>
+                    <a href="{{menu.url}}">{{menu.menu}}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9" id="content">
+        {{content}}
+      </div>
+    <!-- </div> -->
   </div>
 </div>
-
-
-
 

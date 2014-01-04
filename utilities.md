@@ -8,3 +8,9 @@ menu:  utilities
 Utilities
 =================
 
+## Java ##
+* [Spring](http://spring.io/)
+
+## Python Web ##
+* [Flask Docs](http://flask.pocoo.org/docs/)
+

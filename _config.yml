@@ -36,20 +36,24 @@ JK:
       menus:
         - menu: teaching
           url: teaching.html
-    - title: Experiences
+    - title: Experiences & Projects
       menus:
         - menu: internship
           url: internship.html
+        - menu: portfolio
+          url: portfolio.html
         - menu: campus activities
           url: campus.html
     - title: Links
       menus:
-        - menu: utilities
-          url: utilities.html
         - menu: articles
           url: articles.html
         - menu: books
           url: books.html
+        - menu: should-knows
+          url: should-knows.html
+        - menu: utilities
+          url: utilities.html
         - menu: snippets
           url: snippets.html
 
