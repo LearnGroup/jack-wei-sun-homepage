@@ -1,8 +1,10 @@
 ---
 layout: info
-title:  "Teaching"
-date:   2014-01-01 00:00:00
-menu:  teaching
+title: "Teaching"
+date: 2014-01-01 00:00:00
+menu: teaching
+tags: teaching
+description: Jack's Teaching Experience
 ---
 
 # Teaching
