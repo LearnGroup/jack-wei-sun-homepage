@@ -1,4 +1,4 @@
-site_name: "CRAZY JACK 的主页"
+site_name: "JACK Wei Sun Homepage"
 markdown: redcarpet
 pygments: true
 
@@ -12,7 +12,7 @@ url: http://www.jkcrazy.net/
 # site configuation
 
 JK:
-  name: "Jack Sun"
+  name: "Jack Sun (孙伟)"
   title: "My Little Stack"
   info:
     github: "jacksunwei"
@@ -29,7 +29,7 @@ JK:
       name: "Life Record"
       addr: "http://life.jkcrazy.net"
   navs:
-    - title: Jack Sun
+    - title: Jack Sun (孙伟)
       menus:
         - menu: home
           url: home.html
