@@ -3,7 +3,7 @@ layout: info
 title:  "Should Knows"
 date:   2014-01-01 00:00:00
 menu:  should-knows
-tags: should-knows
+tags: [should-knows, Jack, Jack Wei Sun, Jack Sun, jkcrazy]
 description: Jack's Should Knows
 ---
 

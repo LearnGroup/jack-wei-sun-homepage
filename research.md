@@ -3,7 +3,7 @@ layout: info
 title:  "Research"
 date:   2014-01-01 00:00:00
 menu:  research
-tags: research
+tags: [research, Jack, Jack Wei Sun, Jack Sun, jkcrazy]
 description: Jack's Research
 ---
 

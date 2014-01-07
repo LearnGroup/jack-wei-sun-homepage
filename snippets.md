@@ -3,7 +3,7 @@ layout: info
 title:  Snippets
 date:   2014-01-01 00:00:00
 menu:  snippets
-tags: snippets
+tags: [snippets, Jack, Jack Wei Sun, Jack Sun, jkcrazy]
 description: Jack's Snippets
 ---
 

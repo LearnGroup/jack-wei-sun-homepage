@@ -3,7 +3,7 @@ layout: info
 title:  "Experiences"
 date:   2014-01-01 00:00:00
 menu:  experience
-tags: experience
+tags: [experience, Jack, Jack Wei Sun, Jack Sun, jkcrazy]
 description: Jack's Experience
 ---
 
