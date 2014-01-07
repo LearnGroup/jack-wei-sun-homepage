@@ -9,7 +9,7 @@ layout: nil
     {% for nav in site.JK.navs %}
         {% for menu in nav.menus %}
         <url>
-            <loc>{{site.url}}{{menu.url}}</loc>
+            <loc>{{site.url}}/{{menu.url}}</loc>
         </url>
         {% endfor %}
     {% endfor %}
