@@ -4,17 +4,28 @@ layout: default
 <div>
   <header class="navbar navbar-inverse navbar-fixed-top" role="banner">
     <div class="container">
-      <nav class="">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
         <a class="navbar-brand" href="/">CRAZY JACK <sup><font color="red">alpha</font></sup></a>
-        <ul class="nav navbar-nav hidden-xs">
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav">
           <li><a href="home.html">Home</a></li>
           <li><a href="contact.html">Contact Me</a></li>
         </ul>
-        <ul class="nav navbar-nav navbar-right hidden-xs">
+        <ul class="nav navbar-nav navbar-right">
           <li><a href="{{site.JK.pages.blog.addr}}" target="_blank">{{site.JK.pages.blog.name}}</a></li>
           <li><a href="{{site.JK.pages.life.addr}}" target="_blank">{{site.JK.pages.life.name}}</a></li>
         </ul>
-      </nav>
+      </div><!-- /.navbar-collapse -->
     </div>
   </header>
   <div class="jumbotron jk-header" id="overview">
