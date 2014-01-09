@@ -29,6 +29,13 @@ Utilities
 
 ## Editor ##
 
+### Vim ###
+* [VIM - 主帮助文件](http://vimcdoc.sourceforge.net/doc/help.html)
+* [VIM - 中文文档下载](http://sourceforge.net/projects/vimcdoc/files/?source=navbar)
+* vim-scripts - vim的一些基本插件，包括语法高亮的支持、缩进等等
+* vim-doc
+* [手把手教你把Vim改装成一个IDE编程环境(图文)](http://blog.csdn.net/wooin/article/details/1858917)
+
 ### Sublime Plugins ###
 * [InputHelper](https://github.com/xgenvn/InputHelper)
 * [Package Control](sublime.wbond.net)  [[installation]](https://sublime.wbond.net/installation)
