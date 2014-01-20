@@ -38,7 +38,7 @@ Utilities
 
 ### Sublime Plugins ###
 * [InputHelper](https://github.com/xgenvn/InputHelper)
-* [Package Control](sublime.wbond.net)  [[installation]](https://sublime.wbond.net/installation)
+* [Package Control](http://sublime.wbond.net)  [[installation]](http://sublime.wbond.net/installation)
     * All Autocomplete
     * Bootstrap 3 Snippets
     * jQuery
