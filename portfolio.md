@@ -9,3 +9,5 @@ description: Jack's Portfolio
 
 Portfolio
 =========
+
+Wait time for construction
