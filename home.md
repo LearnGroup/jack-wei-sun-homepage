@@ -2,6 +2,7 @@
 layout: info
 title:  "Jack Sun (孙伟)"
 date:   2014-01-01 00:00:00
+description: Jack Wei Sun Homepage
 menu:  home
 tags: [home, Jack, Jack Wei Sun, Jack Sun, jkcrazy]
 ---
