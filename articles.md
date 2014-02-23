@@ -12,3 +12,7 @@ Articles
 
 ## Jekyll ##
 * [Generating a Sitemap in Jekyll without a Plugin](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/)
+
+## Algorithm ##
+
+* [动态规划：从新手到专家](http://hawstein.com/posts/dp-novice-to-advanced.html)
