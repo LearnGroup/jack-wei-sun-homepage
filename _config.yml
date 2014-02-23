@@ -7,8 +7,8 @@ exclude: ['README.md']
 
 # server configuation
 baseurl: ""
-# url: http://localhost:4000
-url: http://www.jkcrazy.net
+url: http://localhost:4000
+# url: http://www.jkcrazy.net
 
 # site configuation
 
