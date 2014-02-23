@@ -28,14 +28,24 @@ The main techniques includes:
 * OpenLDAP
 
 
-[Case-Cube](https://code.google.com/p/case-cube/) - A Statistical Software Prototype on Public Event
+[Case-Cube](https://code.google.com/p/case-cube/): A Statistical Software Prototype on Public Event
 -----------------------
 *Nov. 2012*
 
+Case-Cube is a software prototype to analyse public events. According the demand from one professor, 
+I lead a team to accomplish first version of the software and put it into service. 
+I am in charge of the demand analysis, task division and distribution. The key techniques used in 
+this project include: 
+
+* .NET Framework 
+* [WPF](http://msdn.microsoft.com/zh-cn/library/aa970268(v=vs.110).aspx)
+* MySQL
+
+![]({{url}}/images/portfolio/case-cube.jpg)
 
 Simple Shell Interpreter
 ------------------------
-
+This is the first 
 
 
 Breakout Clone
@@ -48,4 +58,4 @@ The lecturer of this class is Shensheng Zhang.
 I am very grateful to him for his wonderful lectures and well designed projects. 
 It is of great importance to me because it helps me find strong interest on computer science. 
 
-![]({{url}}/images/portfolio/breakout-clone.png)
+![]({{url}}/images/portfolio/breakout-clone.jpg)
