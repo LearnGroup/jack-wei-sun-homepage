@@ -18,7 +18,7 @@ Contact Me
 <img alt="" src="images/weibo.png">
 </a>
 <a href="http://www.renren.com/jack_sun" target="_blank">
-<img alt="" src="images/renren.png" style="border:1px solid; border-radius: 6px">
+<img alt="" src="images/renren.png">
 </a>
 <a href="http://www.linkedin.com/in/jacksunwei" target="_blank">
 <img alt="" src="images/linkedin.png"/>
