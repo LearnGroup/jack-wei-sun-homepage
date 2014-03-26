@@ -11,3 +11,8 @@ Should Knows
 ============
 
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+How to...
+=========
+
+* [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
