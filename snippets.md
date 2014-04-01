@@ -19,3 +19,6 @@ Snippets
     "trim_trailing_white_space_on_save": true
 }
 {% endhighlight %}
+
+### Maven ###
+* [How do I tell Maven to use the latest version of a dependency?](http://stackoverflow.com/questions/30571/how-do-i-tell-maven-to-use-the-latest-version-of-a-dependency)
