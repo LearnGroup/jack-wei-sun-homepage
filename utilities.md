@@ -16,6 +16,13 @@ Utilities
 
 ## Python Web ##
 * [Flask Docs](http://flask.pocoo.org/docs/)
+* [Python Extension Packages for Windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* Tools for Python
+	* [PyCharm IDE](http://www.jetbrains.com/pycharm/)
+	* [PyQt4](http://www.riverbankcomputing.co.uk/software/pyqt/download)
+	* [PyQwt](http://pyqwt.sourceforge.net/)
+	* [Twisted](https://twistedmatrix.com/trac/)
+	* [numpy](http://www.numpy.org/)
 
 ## CSS ##
 * [Bootstrap](http://www.bootcss.com/), [docs](http://v3.bootcss.com/) - Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
