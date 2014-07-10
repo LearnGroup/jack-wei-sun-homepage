@@ -23,6 +23,7 @@ Utilities
 	* [PyQwt](http://pyqwt.sourceforge.net/)
 	* [Twisted](https://twistedmatrix.com/trac/)
 	* [numpy](http://www.numpy.org/)
+	* [matplotlib - a python 2D plotting library of publication quality figures](http://matplotlib.org/)
 
 ## CSS ##
 * [Bootstrap](http://www.bootcss.com/), [docs](http://v3.bootcss.com/) - Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.
