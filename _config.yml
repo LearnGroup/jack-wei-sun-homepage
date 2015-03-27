@@ -8,7 +8,7 @@ exclude: ['README.md']
 # server configuation
 baseurl: ""
 # url: http://localhost:4000
-url: http://www.jkcrazy.net
+url: http://www.jack-wei-sun.org
 
 # site configuation
 
@@ -25,7 +25,7 @@ JK:
   pages:
     blog:
       name: "Tech Blog"
-      addr: "http://blog.jkcrazy.net"
+      addr: "http://blog.jack-wei-sun.org"
     life:
       name: "Life Record"
       addr: "http://life.jkcrazy.net"
